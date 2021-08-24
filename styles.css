@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Chanticleer';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61167b95e3b2d52fd517d238_CHANTICLEER.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IFC Railroad';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/609c2f5dcc2de73ef7792d74_IFC%20RAILROAD%202.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto Thin';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a0ab615ba21e4a79da0_Roboto-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Double Line Script';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a091abaaff297613ccc_NHDLScript.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Regency Script';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a09f1c2893bfd6b80b2_RegencyScriptFLF.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a09f1c2894a496b80b1_EBGaramond-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Victoria';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a0aef62b02a05264e8a_Victoria.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Paddington';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a0975194679c5c9bbbb_Paddington.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cloister Black';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a09f7f54d2915dd7a8b_CloisterBlack.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Arimo';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/61146a09f7f54d4ab6dd7a8a_Arimo-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Munson';
+  src: url('https://uploads-ssl.webflow.com/609ac868cb4d9d45b2e06241/611533ea9e499eaa1032683b_munson_bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
